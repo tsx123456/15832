@@ -1,0 +1,55 @@
+
+h_packet_atlas_symbols.png
+size: 1250, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fudai
+  rotate: false
+  xy: 2, 2
+  size: 226, 213
+  orig: 232, 218
+  offset: 3, 3
+  index: -1
+fudai11
+  rotate: true
+  xy: 647, 7
+  size: 208, 193
+  orig: 232, 218
+  offset: 9, 23
+  index: -1
+fudai12
+  rotate: true
+  xy: 842, 6
+  size: 209, 187
+  orig: 232, 218
+  offset: 8, 29
+  index: -1
+fudai13
+  rotate: false
+  xy: 230, 6
+  size: 220, 209
+  orig: 232, 218
+  offset: 6, 4
+  index: -1
+fudai14
+  rotate: true
+  xy: 1031, 16
+  size: 199, 187
+  orig: 232, 218
+  offset: 18, 28
+  index: -1
+fudai15
+  rotate: true
+  xy: 452, 6
+  size: 209, 193
+  orig: 232, 218
+  offset: 7, 12
+  index: -1
+fx_sparkle_single
+  rotate: false
+  xy: 1220, 186
+  size: 28, 29
+  orig: 33, 34
+  offset: 3, 2
+  index: -1

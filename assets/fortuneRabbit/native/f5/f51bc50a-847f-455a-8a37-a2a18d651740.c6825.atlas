@@ -1,0 +1,20 @@
+
+bg_effect.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGguang21
+  rotate: false
+  xy: 1, 1
+  size: 484, 207
+  orig: 484, 220
+  offset: 0, 3
+  index: -1
+bgguang
+  rotate: false
+  xy: 487, 14
+  size: 374, 194
+  orig: 390, 205
+  offset: 14, 8
+  index: -1

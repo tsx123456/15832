@@ -1,0 +1,125 @@
+
+h_coins_atlas_symbols.png
+size: 799, 545
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+h_cF_fx001
+  rotate: false
+  xy: 102, 49
+  size: 52, 60
+  orig: 197, 186
+  offset: 10, 14
+  index: -1
+h_cF_fx002
+  rotate: false
+  xy: 165, 3
+  size: 108, 108
+  orig: 197, 186
+  offset: 9, 13
+  index: -1
+h_cF_fx003
+  rotate: false
+  xy: 643, 146
+  size: 147, 144
+  orig: 197, 186
+  offset: 6, 15
+  index: -1
+h_cF_fx004
+  rotate: true
+  xy: 334, 6
+  size: 166, 157
+  orig: 197, 186
+  offset: 6, 16
+  index: -1
+h_cF_fx005
+  rotate: true
+  xy: 165, 113
+  size: 186, 167
+  orig: 197, 186
+  offset: 7, 17
+  index: -1
+h_cF_fx006
+  rotate: true
+  xy: 422, 361
+  size: 182, 165
+  orig: 197, 186
+  offset: 13, 21
+  index: -1
+h_cF_fx007
+  rotate: true
+  xy: 493, 11
+  size: 161, 148
+  orig: 197, 186
+  offset: 36, 38
+  index: -1
+h_cF_fx008
+  rotate: true
+  xy: 643, 19
+  size: 125, 122
+  orig: 197, 186
+  offset: 72, 64
+  index: -1
+h_cF_fx009
+  rotate: true
+  xy: 2, 10
+  size: 99, 98
+  orig: 197, 186
+  offset: 96, 86
+  index: -1
+h_cF_fx010
+  rotate: false
+  xy: 102, 2
+  size: 45, 45
+  orig: 197, 186
+  offset: 140, 126
+  index: -1
+h_cF_glow
+  rotate: false
+  xy: 2, 301
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+tuzi_12
+  rotate: true
+  xy: 643, 292
+  size: 125, 153
+  orig: 128, 155
+  offset: 1, 1
+  index: -1
+tuzi_13
+  rotate: false
+  xy: 509, 207
+  size: 125, 152
+  orig: 127, 155
+  offset: 1, 1
+  index: -1
+tuzi_14
+  rotate: false
+  xy: 643, 419
+  size: 154, 124
+  orig: 156, 126
+  offset: 1, 1
+  index: -1
+tuzi_15
+  rotate: true
+  xy: 246, 359
+  size: 184, 174
+  orig: 193, 183
+  offset: 5, 5
+  index: -1
+tuzi_16
+  rotate: true
+  xy: 334, 174
+  size: 183, 173
+  orig: 191, 182
+  offset: 4, 4
+  index: -1
+tuzi_17
+  rotate: true
+  xy: 2, 111
+  size: 188, 161
+  orig: 198, 169
+  offset: 5, 4
+  index: -1

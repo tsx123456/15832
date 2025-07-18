@@ -1,0 +1,55 @@
+
+anniu.png
+size: 964,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu_0
+  rotate: false
+  xy: 802, 5
+  size: 160, 160
+  orig: 162, 162
+  offset: 1, 1
+  index: -1
+anniu_1
+  rotate: false
+  xy: 830, 282
+  size: 92, 69
+  orig: 93, 128
+  offset: 0, 40
+  index: -1
+anniu_2
+  rotate: true
+  xy: 830, 198
+  size: 82, 74
+  orig: 93, 125
+  offset: 10, 38
+  index: -1
+anniu_3
+  rotate: true
+  xy: 639, 167
+  size: 184, 189
+  orig: 186, 191
+  offset: 1, 1
+  index: -1
+mh_spin_vfx_a_screen
+  rotate: false
+  xy: 639, 3
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+sb_vfx_c_add
+  rotate: false
+  xy: 353, 67
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+sb_vfx_d_add
+  rotate: false
+  xy: 2, 2
+  size: 349, 349
+  orig: 349, 349
+  offset: 0, 0
+  index: -1

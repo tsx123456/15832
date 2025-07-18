@@ -1,0 +1,90 @@
+
+h_angbao_atlas_symbols.png
+size: 606, 603
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+h_abL_fx001
+  rotate: false
+  xy: 2, 202
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx002
+  rotate: false
+  xy: 154, 403
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx003
+  rotate: false
+  xy: 2, 2
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx004
+  rotate: false
+  xy: 305, 403
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx005
+  rotate: false
+  xy: 153, 202
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx006
+  rotate: false
+  xy: 153, 2
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx007
+  rotate: false
+  xy: 304, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx008
+  rotate: false
+  xy: 455, 203
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx009
+  rotate: false
+  xy: 304, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+h_abL_fx010
+  rotate: false
+  xy: 455, 3
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+hongbao1
+  rotate: false
+  xy: 2, 402
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+hongbao2
+  rotate: false
+  xy: 456, 421
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
