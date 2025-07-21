@@ -1,0 +1,27 @@
+
+skeleton.jpg
+size: 1415,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang4
+  rotate: true
+  xy: 2, 216
+  size: 770, 1411
+  orig: 770, 1411
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 2, 2
+  size: 212, 308
+  orig: 500, 500
+  offset: 144, 100
+  index: -1
+lizi2
+  rotate: true
+  xy: 312, 22
+  size: 192, 261
+  orig: 500, 500
+  offset: 154, 124
+  index: -1
